@@ -1,4 +1,4 @@
-This repository contains the code which can be used to create and visualize the 12 searching algorithms
+This repository contains the code which can be used to create and visualize the 12 searching algorithms \n
 1.BMS(British Museum Search)
 2.DFS(Depth First Search)
 3.BFS(Bredth First Search)
