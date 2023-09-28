@@ -23,3 +23,5 @@ This repository contains the code which can be used to create and visualize the 
 11.Branch and Bound with huersitics and cost
 
 12.A*
+
+The combination of all the algorithms and the implementation of these algorithms on user defined graph,tree can be found in Main File.py
