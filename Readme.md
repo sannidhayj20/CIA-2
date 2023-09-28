@@ -16,11 +16,11 @@ This repository contains the code which can be used to create and visualize the 
 
 8.Branch and Bound with greed
 
-9.Branch and Bound with extended list
+9.Branch and Bound with greed with extended list
 
-10.Branch and Bound with greed with extended list
+10.Branch and Bound with huersitics and cost
 
-11.Branch and Bound with huersitics and cost
+11.Branch and Bound with Greedy Huersitics 
 
 12.A*
 
